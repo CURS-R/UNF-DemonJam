@@ -31,7 +31,6 @@ public class SettingsManager : MonoBehaviour
 
     private void Start()
     {
-        throw new NotImplementedException();
     }
 
     private void Update()
